@@ -1,1 +1,2 @@
-first time to try git,git is a nessary skill!
+Git is a distributed version control system.
+Git is free software.
